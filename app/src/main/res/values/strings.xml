@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kolculator</string>
+    <string name="Division_symbol">\U+00F7</string>
+</resources>

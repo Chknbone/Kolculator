@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="readoutColor">#8f6f6f</color>
+    <color name="numberPadColor">#c3efa8</color>
+    <color name="operatorPadColor">#de8a0d</color>
+</resources>
